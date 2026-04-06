@@ -10,6 +10,14 @@ body {
     align-items: center;
 }
 
+h1 {
+    margin-bottom: 5px;
+}
+
+p:first-of-type {
+    margin-top: 0;
+}
+
 .profile-img {
     width: 110px;
     height: 110px;
